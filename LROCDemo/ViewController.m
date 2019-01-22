@@ -21,12 +21,6 @@ static NSString *const kLREncodeDataArrayKey = @"kLREncodeDataArrayKey";
 <LRDropDownMenuDelegate,
 LRDropDownMenuDataSource>
 
-//@property (nonatomic, strong) NSArray         *classifys;
-//@property (nonatomic, strong) NSArray         *cates;
-//@property (nonatomic, strong) NSArray         *movices;
-//@property (nonatomic, strong) NSArray         *hostels;
-//@property (nonatomic, strong) NSArray         *areas;
-//@property (nonatomic, strong) NSArray         *sorts;
 @property (nonatomic, weak)   LRDropDownMenu  *menu;
 @property (nonatomic, strong) NSArray         *array;
 
